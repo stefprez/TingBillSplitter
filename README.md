@@ -10,7 +10,7 @@ Directions:
 2. Click on the Billing History link on the left.
 3. Select Monthly Usage and click on the month you'd like to split.
 4. Click on the blue download icon on the left in the CSV column for Minutes, Messages, and Megabytes. Make note of the location where the files are saved.
-5. [Download](https://github.com/stefprez/TingBillSplitter/blob/master/TingBillSplitter.xlsx?raw=true) and open TingBillSplitter.xlsx (or [TingBillSplitter.ods](https://github.com/stefprez/TingBillSplitter/blob/master/TingBillSplitter.ods?raw=true))and enter the names and numeric only phone numbers (they will auto format) in their respective columns. Delete any extra rows not used.
+5. [Download](https://github.com/stefprez/TingBillSplitter/blob/master/TingBillSplitter.xlsx?raw=true) and open TingBillSplitter.xlsx (or [TingBillSplitter.ods](https://github.com/stefprez/TingBillSplitter/blob/master/TingBillSplitter.ods?raw=true)) and enter the names and numeric only phone numbers (they will auto format) in their respective columns. Delete any extra rows not used.
 6. Open the downloaded CSV files, and copy and paste their contents into the A1 cell of their respective sheets.
 7. Look at your Ting bill and enter in the amount for taxes and the total bill. 
 8. Verify the estimated usage costs for minutes, messages, and megabytes are correct. Sometimes Ting is nice and seems to round down in their buckets. This can cause a discrepancy between the bill amount and the calculated amount in the spreadsheet, so use the override columns and enter in the correct amount. If you don't use the override column, you will lose the formula.
