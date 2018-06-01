@@ -17,4 +17,6 @@ Directions:
 9. The total costs per line will show up in the appropriate column, with usage breakdowns as well.
 10. Don't forget to save your changes so for the next month, you only have to update the usage sheets, taxes, and total bill amounts!
 
-If you have any questions, comments, or issues, please email me at stefprez+tingbillsplitter@gmail.com and I'll be happy to try and help!
+
+# Contributions
+I am no longer maintaining this, but if anyone would like to make contributions, feel free to make a pull request.
